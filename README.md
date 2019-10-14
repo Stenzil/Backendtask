@@ -5,6 +5,7 @@
 
 This is a car rental app developed using nodejs and react with mongoose atlas for database. Hosted at https://whitecars.herokuapp.com/
 
+This project is hosted on heroku but the heroku is not able to get along with mongoose atlas, so until the bug is fixed one needs to download the repo and then run both the servers, on from backend folder "nodemon server" and then from root folder enter "npm start"
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
