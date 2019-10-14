@@ -1,4 +1,6 @@
 # Backendtask
+![](Screenshot 2019-10-14 at 2.59.32 PM.png)
+
 This is a car rental app developed using nodejs and react with mongoose atlas for database. Hosted at https://whitecars.herokuapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
